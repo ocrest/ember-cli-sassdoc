@@ -1,0 +1,27 @@
+{
+  "name": "ember-cli-sassdoc",
+  "version": "0.0.0",
+  "description": "Include SassDoc into an ember-cli app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ember-addon",
+    "sassdoc"
+  ],
+  "author": "Daniil Filippov <filippovdaniil@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "sassdoc": "^2.1.20"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/filippovdaniil/ember-cli-sassdoc"
+  },
+  "bugs": {
+    "url": "https://github.com/filippovdaniil/ember-cli-sassdoc/issues"
+  },
+  "homepage": "https://github.com/filippovdaniil/ember-cli-sassdoc"
+}
