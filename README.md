@@ -39,8 +39,10 @@ ember sassdoc <options...>
     aliases: -af <value>
   --groups (String) (Default: {"undefined": "general"})
     aliases: -g <value>
-  --no-update-notifier (Boolean) (Default: false)
-    aliases: -un
   --verbose (Boolean) (Default: false)
     aliases: -v
+  --config (String) (Default: .sassdocrc)
+    aliases: -c <value>
 ```
+
+You can also override default options with the SassDoc [configuration file](http://sassdoc.com/configuration/#introduction) (`--config` or `-c` option used only for config name other than `.sassdocrc`).
