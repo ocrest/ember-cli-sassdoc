@@ -1,5 +1,5 @@
 var sassdoc = require('sassdoc');
-var express = require('ember-cli/node_modules/express');
+var express = require('express');
 var sassDocCommand = require('./lib/commands/sassdoc');
 
 module.exports = {
