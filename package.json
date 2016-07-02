@@ -1,6 +1,6 @@
 {
   "name": "ember-cli-sassdoc",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Include SassDoc into an ember-cli app",
   "main": "index.js",
   "scripts": {
