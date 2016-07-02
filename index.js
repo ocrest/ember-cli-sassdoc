@@ -7,7 +7,7 @@ module.exports = {
 
   config: function (environment, appConfig) {
     this.docDir = appConfig.sassDocDir || 'sassdoc'
-    this.docRoute = appConfig.sassDocRoute || this.docDir;
+    this.docRoute = appConfig.sassDocRoute || 'sassdoc';
     return {
       sassDocDir: this.docDir,
       sassDocRoute: this.docRoute,
