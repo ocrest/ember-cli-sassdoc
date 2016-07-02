@@ -16,7 +16,7 @@ In order to generate documentation for you Sass files, run this command inside t
 ember sassdoc
 ```
 
-You can then access the generated documentation at http://localhost:4200/sassdoc route.
+You can then access the generated documentation at [http://localhost:4200/sassdoc](http://localhost:4200/sassdoc) route.
 
 If you want to change the name of this route, set the `ENV.sassDocRoute` property in your `config/environment.js` configuration file. Also, you can change the path to directory with SassDoc assets being served, using the `ENV.sassDocDir` property.
 
