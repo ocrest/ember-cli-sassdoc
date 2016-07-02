@@ -10,6 +10,9 @@
     "ember-addon",
     "sassdoc"
   ],
+  "ember-addon": {
+    "before": "serve-files-middleware"
+  },
   "author": "Daniil Filippov <filippovdaniil@gmail.com>",
   "license": "MIT",
   "dependencies": {
