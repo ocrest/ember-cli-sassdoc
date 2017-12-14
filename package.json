@@ -16,7 +16,7 @@
   "author": "Daniil Filippov <filippovdaniil@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "sassdoc": "^2.1.20"
+    "sassdoc": "^2.5.0"
   },
   "peerDependencies": {
     "chalk": "1.x",
