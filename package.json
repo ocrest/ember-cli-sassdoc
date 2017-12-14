@@ -30,5 +30,9 @@
   "bugs": {
     "url": "https://github.com/filippovdaniil/ember-cli-sassdoc/issues"
   },
-  "homepage": "https://github.com/filippovdaniil/ember-cli-sassdoc"
+  "homepage": "https://github.com/filippovdaniil/ember-cli-sassdoc",
+  "devDependencies": {
+    "babel-eslint": "^8.0.3",
+    "eslint-config-airbnb-base": "^12.1.0"
+  }
 }
