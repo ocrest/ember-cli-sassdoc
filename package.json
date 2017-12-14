@@ -20,6 +20,7 @@
   },
   "peerDependencies": {
     "chalk": "1.x",
+    "console-ui": "2.x",
     "express": "4.x"
   },
   "repository": {
